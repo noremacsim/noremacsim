@@ -19,9 +19,3 @@ https://simpleicons.org/
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop a range of projects using multiple laungages. I am at Core a PHP Developer and have been working in proffessional setting for 7 years now in PHP. But I also develop Angular, Vue & Node applications. manage my own Apache server and write alot of shell script for home projects</p>
 
 Programmer specialized in **Software development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
-
-
-## &#x1f4c8; My GitHub Stats
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noremacsim&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Noremac's GitHub stats](https://github-readme-stats.vercel.app/api?username=noremacsim&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
