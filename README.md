@@ -18,4 +18,4 @@ https://simpleicons.org/
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop a range of projects using multiple laungages. I am at Core a PHP Developer and have been working in proffessional setting for 10 years now in PHP. But I also develop Angular, Vue & Node applications. manage my own Apache server and write alot of shell script for home projects</p>
 
-Programmer specialized in **Software development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Programmer specialized in **Software development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products. 
